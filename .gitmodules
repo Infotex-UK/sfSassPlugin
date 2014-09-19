@@ -1,0 +1,3 @@
+[submodule "lib/vendor/phpsass"]
+	path = lib/vendor/phpsass
+	url = https://github.com/richthegeek/phpsass

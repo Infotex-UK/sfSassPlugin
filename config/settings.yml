@@ -1,0 +1,3 @@
+all:
+  .settings:
+    sass_plugin_compilable_extensions: [sass, scss]
